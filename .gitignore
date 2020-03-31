@@ -1,0 +1,20 @@
+# Default ignored files
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.class
+
+# Maven
+log/
+target/
+/workspace.xml
+
+# Sonarqube
+# .sonarlint/
+#.sonar/
+#.scannerwork/
+#*.pb
+
+# so taraba komentirame
